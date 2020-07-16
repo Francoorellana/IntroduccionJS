@@ -17,3 +17,6 @@ console.log(typeof nombre) //el atributo "typeof" informa que tipo de variable e
 
 const E = Math.E
 console.log(E)
+
+console.log("probando git")
+
