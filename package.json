@@ -1,0 +1,25 @@
+{
+  "name": "introduccion-js",
+  "version": "1.0.0",
+  "description": "aprendiendo nodejs y express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francoorellana/IntroduccionJS.git"
+  },
+  "author": "Franco Orellana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francoorellana/IntroduccionJS/issues"
+  },
+  "homepage": "https://github.com/Francoorellana/IntroduccionJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
